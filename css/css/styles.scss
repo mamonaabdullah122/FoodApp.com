@@ -1,0 +1,9 @@
+@import "colors";
+
+.model-header{
+    background: linear-gradient(rgb(0, 229, 255),white);
+
+    .model-body{
+        background: linear-gradient(white,rgb(0, 229, 255));
+    }
+}

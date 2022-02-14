@@ -1,0 +1,47 @@
+.jumbotron {
+    padding: 1rem 1rem ;
+    margin-bottom: 2rem;
+    background-color:white;
+    border-radius: .2rem;
+  }
+.footer{
+    margin-top: 15px;
+    background-color:white;
+    padding: 2rem 1rem;
+}
+#logoPic{
+  height: 135px;
+  width: 145px;
+}
+#logo_brand{
+  height: 50px;
+  width: 60px;
+}
+nav{
+  background-color: #A91B0D;
+}
+
+#res_btn{
+  background-color: #A91B0D;
+  border-color: #A91B0D;
+  color: white;
+}
+.body-bg{
+  background-color:#F9E79F ;
+}
+#chef-pic{
+  height: 150px;
+  width: 150px;
+}
+#pizza-img{
+  height: 100px;
+  width: 100px;
+  
+}
+.card{
+  margin: 10px;
+}
+#card-bg{
+  background-color: #A91B0D;
+  color: white;
+}

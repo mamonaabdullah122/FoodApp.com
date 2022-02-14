@@ -1,0 +1,75 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+}
+
+.row-content:last-of-type {
+  border: none;
+}
+
+.footer {
+  background:linear-gradient(white,#b983ff);
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background:linear-gradient(#b983ff,white);
+  color: floralwhite;
+}
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background:blueviolet;
+
+}
+
+form > .form-group.row {
+  margin-bottom: 1rem;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+.carousel {
+background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+
+.carousel-item {
+height: 300px;
+}
+
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+.modal-header{
+  background: linear-gradient(rgb(0, 229, 255),white);
+}
+.modal-body{
+  background: linear-gradient(white,rgb(0, 229, 255));
+}
+/*# sourceMappingURL=index.45223856.css.map */
